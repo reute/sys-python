@@ -3,6 +3,7 @@
 
 from random import randint
 
+# komm
 geld = 1000
 
 def wuerfeln():
